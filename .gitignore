@@ -8,6 +8,7 @@ yarn-error.log*
 lerna-debug.log*
 *.DS_Store
 .vscode/*
+.nuxt
 !.vscode/extensions.json
 .idea
 dist
