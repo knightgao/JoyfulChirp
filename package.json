@@ -10,8 +10,13 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "i18n": "^0.15.1",
     "nuxt": "^3.11.2",
-    "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue": "^3.4.25",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@unocss/nuxt": "^0.59.4",
+    "unocss": "^0.59.4"
   }
 }
