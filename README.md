@@ -56,6 +56,11 @@ pnpm run dev
 
 **JoyfulChirp（雀鸣）** 是一个开源项目，我们欢迎所有形式的贡献。如果你有建议、问题或想贡献代码，请不要犹豫，加入我们的社区！
 
+<a href="https://github.com/knightgao/JoyfulChirp/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=knightgao/JoyfulChirp" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 
 ## 📝 许可证
