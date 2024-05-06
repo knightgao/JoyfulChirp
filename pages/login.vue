@@ -49,8 +49,12 @@ const form = ref({
   password: ""
 });
 const login = ()=> {
-  // 登录逻辑
-  alert("登录功能尚未实现！");
+  fetch("/api/login", {
+    method: "POST",
+    body: JSON.stringify(form.value)
+  }).then(res => {
+    console.log(res);
+  });
 }
 </script>
 
